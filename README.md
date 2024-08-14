@@ -133,6 +133,11 @@ Contributions are welcome! Please fork the repository, create a new branch for y
 4. Push to the branch: `git push origin feature-branch-name`
 5. Open a pull request.
 
+
+## Respect
+
+1. The email spam classification dataset has been taken from Kaggle: https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset, which has been renamed into spam.csv later for the use.
+2. 
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.

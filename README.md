@@ -6,30 +6,6 @@ Dated: 14-08-2024
 
 This repository contains a collection of Python scripts and Jupyter notebooks demonstrating various applications of the Natural Language Toolkit (NLTK). NLTK is a powerful library for natural language processing (NLP) and is widely used in the analysis and manipulation of textual data.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Applications](#applications)
-  - [Text Classification](#1-text-classification)
-  - [Tokenization](#2-tokenization)
-  - [Named Entity Recognition (NER)](#4-named-entity-recognition-ner)
-  - [Part-of-Speech Tagging](#5-part-of-speech-tagging)
-  - [Parsing and Syntactic Analysis](#6-parsing-and-syntactic-analysis)
-  - [Word Sense Disambiguation](#7-word-sense-disambiguation)
-  - [Text Generation](#8-text-generation)
-  - [Language Modeling](#9-language-modeling)
-  - [Machine Translation](#10-machine-translation)
-  - [Corpora Management](#11-corpora-management)
-  - [Concordance and Collocations](#12-concordance-and-collocations)
-  - [Text Summarization](#13-text-summarization)
-  - [Question Answering Systems](#14-question-answering-systems)
-  - [Building Chatbots](#15-building-chatbots)
-  - [Information Retrieval](#16-information-retrieval)
-  - [Topic Modeling](#17-topic-modeling)
-  - [Plagiarism Detection](#18-plagiarism-detection)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -55,6 +31,9 @@ nltk.download('all')
 ### 2. Tokenization
 - **Sentence Tokenization**: Split text into individual sentences.
 - **Word Tokenization**: Break down text into individual words or tokens.
+
+### 3. Plagiarism Detection
+- **Comparing Texts**: Detect similarities between texts to identify potential plagiarism.
 
 ### 4. Named Entity Recognition (NER)
 - **Extracting Entities**: Identify and classify entities like names, organizations, and locations in text.
@@ -98,8 +77,6 @@ nltk.download('all')
 ### 17. Topic Modeling
 - **Topic Identification**: Identify main topics in a collection of documents.
 
-### 18. Plagiarism Detection
-- **Comparing Texts**: Detect similarities between texts to identify potential plagiarism.
 
 ## Usage
 

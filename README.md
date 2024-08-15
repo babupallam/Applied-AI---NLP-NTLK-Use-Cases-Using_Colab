@@ -137,7 +137,7 @@ Contributions are welcome! Please fork the repository, create a new branch for y
 ## Respect
 
 1. The email spam classification dataset has been taken from Kaggle: https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset, which has been renamed into spam.csv later for the use.
-2. 
+2. The CSV file used for sentiment analysis has been taken from Kaggle: https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.

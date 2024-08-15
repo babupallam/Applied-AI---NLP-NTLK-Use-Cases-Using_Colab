@@ -12,7 +12,6 @@ This repository contains a collection of Python scripts and Jupyter notebooks de
 - [Applications](#applications)
   - [Text Classification](#1-text-classification)
   - [Tokenization](#2-tokenization)
-  - [Stemming and Lemmatization](#3-stemming-and-lemmatization)
   - [Named Entity Recognition (NER)](#4-named-entity-recognition-ner)
   - [Part-of-Speech Tagging](#5-part-of-speech-tagging)
   - [Parsing and Syntactic Analysis](#6-parsing-and-syntactic-analysis)
@@ -56,10 +55,6 @@ nltk.download('all')
 ### 2. Tokenization
 - **Sentence Tokenization**: Split text into individual sentences.
 - **Word Tokenization**: Break down text into individual words or tokens.
-
-### 3. Stemming and Lemmatization
-- **Stemming**: Reduce words to their base or root form.
-- **Lemmatization**: Convert words to their dictionary form.
 
 ### 4. Named Entity Recognition (NER)
 - **Extracting Entities**: Identify and classify entities like names, organizations, and locations in text.

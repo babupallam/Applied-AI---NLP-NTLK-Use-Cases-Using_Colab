@@ -47,8 +47,8 @@ nltk.download('all')
 ### 7. Word Sense Disambiguation
 - **Contextual Meaning**: Determine the correct meaning of a word based on its context.
 
-### 8. Text Generation
-- **Automatic Text Generation**: Generate text using probabilistic models.
+### 8. Topic Modeling
+- **Topic Identification**: Identify main topics in a collection of documents.
 
 ### 9. Language Modeling
 - **Building Language Models**: Predict the probability of word sequences.
@@ -59,23 +59,6 @@ nltk.download('all')
 ### 11. Corpora Management
 - **Working with Corpora**: Access and manipulate various text corpora.
 
-### 12. Concordance and Collocations
-- **Finding Words in Context**: Find word occurrences and frequently appearing word pairs.
-
-### 13. Text Summarization
-- **Summarizing Text**: Extract key sentences to create a summary.
-
-### 14. Question Answering Systems
-- **QA Models**: Develop systems that answer questions posed in natural language.
-
-### 15. Building Chatbots
-- **Conversational Agents**: Create rule-based chatbots for interactive applications.
-
-### 16. Information Retrieval
-- **Search Engines**: Develop search engines for retrieving relevant information from text databases.
-
-### 17. Topic Modeling
-- **Topic Identification**: Identify main topics in a collection of documents.
 
 
 ## Usage
